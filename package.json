@@ -1,0 +1,22 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "professional ReadMe Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikaylaakelly/ReadMeGenerator.git"
+  },
+  "author": "Mikayla Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikaylaakelly/ReadMeGenerator/issues"
+  },
+  "homepage": "https://github.com/mikaylaakelly/ReadMeGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
