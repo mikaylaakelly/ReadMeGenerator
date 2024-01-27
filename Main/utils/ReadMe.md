@@ -5,7 +5,7 @@
 
 
 ## Description
-This project is using prompts in node.js to create a professional looking ReadMe.
+This project is using prompts in node.js to create a professional looking ReadMe
 
 ## Table of Contents
 - [Installation](#installation)
@@ -19,7 +19,7 @@ This project is using prompts in node.js to create a professional looking ReadMe
 To install the necessary items, run the command: npm i
 
 ## Usage
-You will need to install the necessary things such as inquirer@8.2.4
+You will need to install the necessary things such as inquirer@8.2.4. You will be using VSCode, Node.js inquirer, and fs.
 
 ## License
     
