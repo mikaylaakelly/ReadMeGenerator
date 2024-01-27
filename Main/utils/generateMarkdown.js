@@ -1,51 +1,44 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
+// Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   if (license !== 'none') {
     return `![GitHub license](https://img.shields.io/badge/license-${license}-blue.svg)`;
-  } 
-  else {
+  } else {
     return '';
   }
-};
+}
 
-// TODO: Create a function that returns the license link
+// Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (license !== 'none') {
-    return `\n* [License](#license)\n`
-  }
-  else {
+    return `\n* [License](#license)\n`;
+  } else {
     return '';
   }
-};
+}
 
-// TODO: Create a function that returns the license section of README
+// Create a function that returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
   if (license !== 'none') {
-    return `#License
+    return `## License
     
-    License\n\nThis project is licensed under the ${license} license.`
-  }
-  else {
+This project is licensed under the ${license} license.`;
+  } else {
     return '';
   }
-};
+}
 
-// TODO: Create a function to generate markdown for README
+// Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
-  ${renderLicenseBadge(data.license)}
- 
- 
-  ## Description
+${renderLicenseBadge(data.license)}
 
-
-  ${data.description}
+## Description
+${data.description}
 
 ## Table of Contents
-
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -54,7 +47,7 @@ function generateMarkdown(data) {
 - [Questions](#questions)
 
 ## Installation
-To install the necessary items run the command: ${data.install}
+To install the necessary items, run the command: ${data.install}
 
 ## Usage
 ${data.usage}
@@ -66,18 +59,14 @@ ${renderLicenseLink(data.license)}
 ${data.contributing}
 
 ## Tests
-To run any testsm run the command: ${data.testing}
+To run any tests, run the command: ${data.testing}
 
 ## Questions
-For any further questions I have linked my Email and a link to my github profile!
+For any further questions, I have linked my Email and a link to my GitHub profile!
 
-GitHub: (${data.yourlink})
+GitHub: [${data.username}](${data.yourlink})
 Email: ${data.email}
 `;
-
-
-};
-
-
+}
 
 module.exports = generateMarkdown;
