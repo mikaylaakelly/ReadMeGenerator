@@ -35,4 +35,4 @@ To run any tests, run the command: npm test
 For any further questions, I have linked my Email and a link to my GitHub profile!
 
 GitHub: https://github.com/mikaylaakelly
-Email: Mikaylaakelly@gmail.com
+Email: mikaylaakelly@gmail.com
