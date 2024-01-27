@@ -1,8 +1,11 @@
-# test
+# Read Me Generator
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
+* [License](#license)
+
+
 ## Description
-test #3
+This project is using prompts in node.js to create a professional looking ReadMe.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -16,17 +19,14 @@ test #3
 To install the necessary items, run the command: npm i
 
 ## Usage
-
-* [License](#license)
-
-thing and such
+You will need to install the necessary things such as inquirer@8.2.4
 
 ## License
     
 This project is licensed under the MIT license.
 
 ## Contributing
-industry standard
+When adding to this Repo you should follow the industry standards which are spelled out here: https://www.contributor-covenant.org/
 
 ## Tests
 To run any tests, run the command: npm test
@@ -34,5 +34,5 @@ To run any tests, run the command: npm test
 ## Questions
 For any further questions, I have linked my Email and a link to my GitHub profile!
 
-GitHub: github@github.com
-Email: email@gmail.com
+GitHub: https://github.com/mikaylaakelly
+Email: mikaylaakelly@gmail.com

@@ -34,6 +34,7 @@ This project is licensed under the ${license} license.`;
 function generateMarkdown(data) {
   return `# ${data.title}
 ${renderLicenseBadge(data.license)}
+${renderLicenseLink(data.license)}
 
 ## Description
 ${data.description}
@@ -50,7 +51,6 @@ ${data.description}
 To install the necessary items, run the command: ${data.install}
 
 ## Usage
-${renderLicenseLink(data.license)}
 ${data.usage}
 
 ${renderLicenseSection(data.license)}
