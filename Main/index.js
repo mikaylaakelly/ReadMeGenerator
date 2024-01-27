@@ -62,12 +62,13 @@ const questions = [
 
 
 function writeToFile(fileName, data) {
-    fs.writeFile(fileName, data, (err) => {
+    const filePath = path.join(process.cwd(), fileName);
+    fs.writeFile(filePath, data, (err) => {
         console.log('Creating ReadMe!');
         if (err) {
             console.error(err);
         } else {
-            console.log(`ReadMe has been created!`);
+            console.log(`ReadMe has been created at ${filePath}`);
         }
     });
 }

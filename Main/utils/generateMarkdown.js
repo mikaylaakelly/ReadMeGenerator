@@ -50,10 +50,10 @@ ${data.description}
 To install the necessary items, run the command: ${data.install}
 
 ## Usage
+${renderLicenseLink(data.license)}
 ${data.usage}
 
 ${renderLicenseSection(data.license)}
-${renderLicenseLink(data.license)}
 
 ## Contributing
 ${data.contributing}
