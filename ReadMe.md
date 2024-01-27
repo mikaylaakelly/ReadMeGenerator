@@ -39,4 +39,4 @@ Email: mikaylaakelly@gmail.com
 
 
 ##Video
-<iframe src="https://drive.google.com/file/d/1LspdURNtchZHVwCS5sCkwSPtpY9nlRaH/preview" width="640" height="480"></iframe>
+https://drive.google.com/file/d/1LspdURNtchZHVwCS5sCkwSPtpY9nlRaH/preview
