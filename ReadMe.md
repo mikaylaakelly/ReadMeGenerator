@@ -36,3 +36,8 @@ For any further questions, I have linked my Email and a link to my GitHub profil
 
 GitHub: https://github.com/mikaylaakelly
 Email: mikaylaakelly@gmail.com
+
+
+Video:
+The video said it was too big to embed into the files so I have attached the link!
+https://drive.google.com/file/d/1LspdURNtchZHVwCS5sCkwSPtpY9nlRaH/preview
