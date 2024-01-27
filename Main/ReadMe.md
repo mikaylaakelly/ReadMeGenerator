@@ -2,7 +2,7 @@
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
-testy test test
+test #3
 
 ## Table of Contents
 - [Installation](#installation)
@@ -19,14 +19,14 @@ To install the necessary items, run the command: npm i
 
 * [License](#license)
 
-this is a test
+thing and such
 
 ## License
     
 This project is licensed under the MIT license.
 
 ## Contributing
-include industry standard link
+industry standard
 
 ## Tests
 To run any tests, run the command: npm test
@@ -34,5 +34,5 @@ To run any tests, run the command: npm test
 ## Questions
 For any further questions, I have linked my Email and a link to my GitHub profile!
 
-GitHub: [usernameplz](link@github)
-Email: email@email
+GitHub: github@github.com
+Email: email@gmail.com

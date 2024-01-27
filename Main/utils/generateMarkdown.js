@@ -64,7 +64,7 @@ To run any tests, run the command: ${data.testing}
 ## Questions
 For any further questions, I have linked my Email and a link to my GitHub profile!
 
-GitHub: [${data.username}](${data.yourlink})
+GitHub: ${data.yourlink}
 Email: ${data.email}
 `;
 }
