@@ -38,5 +38,6 @@ GitHub: https://github.com/mikaylaakelly
 Email: mikaylaakelly@gmail.com
 
 
-##Video
+Video:
+The video said it was too big to embed into the files so I have attached the link!
 https://drive.google.com/file/d/1LspdURNtchZHVwCS5sCkwSPtpY9nlRaH/preview
